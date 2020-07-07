@@ -27,7 +27,8 @@ server/subscriber
 * Install the [smart switch simulator](https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch) for `Arduino`.
 I have forked this library and restructured it so that it can be used as a
 library within `Arduino`. You will need my forked verison to make the example
-code work. [Forked Version](https://github.com/av4625/arduino-esp8266-alexa-multiple-wemo-switch)
+code work. [Forked Version](https://github.com/av4625/arduino-esp8266-alexa-multiple-wemo-switch).
+Clone this into the "libraries" folder in your `Arduino` workspace.
 * Enter your Wifi, `MQTT` and Tradfri config details into the `python` and
 `arduino` files
 
