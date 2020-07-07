@@ -28,6 +28,8 @@ server/subscriber
 I have forked this library and restructured it so that it can be used as a
 library within `Arduino`. You will need my forked verison to make the example
 code work. [Forked Version](https://github.com/av4625/arduino-esp8266-alexa-multiple-wemo-switch)
+* Enter your Wifi, `MQTT` and Tradfri config details into the `python` and
+`arduino` files
 
 ## Get it running
 1. Start the `MQTT` subscriber, manually or by a service
