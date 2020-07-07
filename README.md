@@ -63,3 +63,5 @@ great as the Ikea bulbs don't show a nice saturated green and it goes white
 - [ ] Make it turn on the light and start the animation if the lamp is off
 - [ ] Let the user change brightness and turn off the lamp while the animation
 is on
+- [ ] Allow the user to turn on another animation while one is currently running
+by stopping the first and starting the second.
