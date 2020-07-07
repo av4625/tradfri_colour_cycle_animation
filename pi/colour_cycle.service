@@ -1,0 +1,13 @@
+[Unit]
+Description=A MQTT server to cycle colours on a tradfri bulb
+After=network.target
+
+[Service]
+ExecStart=./home/pi/scripts/color_cycle.py
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User=pi
+
+[Install]
+WantedBy=multi-user.target
