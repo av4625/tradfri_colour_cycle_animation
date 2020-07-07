@@ -65,3 +65,5 @@ great as the Ikea bulbs don't show a nice saturated green and it goes white
 is on
 - [ ] Allow the user to turn on another animation while one is currently running
 by stopping the first and starting the second.
+- [ ] Be able to programically cycle through XY colours instead of having a list
+of constants
